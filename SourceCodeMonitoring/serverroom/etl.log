@@ -1,0 +1,8 @@
+2026-07-25 08:34:33,535 - ERROR - Database error: 1054 (42S22): Unknown column 'kelembapan' in 'SELECT'
+2026-07-25 08:35:48,994 - ERROR - Database error: 1054 (42S22): Unknown column 'kelembaban_rata_rata' in 'INSERT INTO'
+2026-07-25 08:37:07,965 - ERROR - Database error: 1054 (42S22): Unknown column 'total_hujan_terdeteksi' in 'INSERT INTO'
+2026-07-25 08:39:23,476 - INFO - ETL sukses untuk tanggal 2026-07-25. Rata-rata Suhu: 17.718918840857548C
+2026-07-25 23:50:01,471 - INFO - ETL sukses untuk tanggal 2026-07-25. Rata-rata Suhu: 17.761379199557833C
+2026-07-26 23:50:01,364 - WARNING - Tidak ada data valid yang ditemukan untuk tanggal 2026-07-26.
+2026-07-27 23:50:01,983 - WARNING - Tidak ada data valid yang ditemukan untuk tanggal 2026-07-27.
+2026-07-28 23:50:01,590 - WARNING - Tidak ada data valid yang ditemukan untuk tanggal 2026-07-28.

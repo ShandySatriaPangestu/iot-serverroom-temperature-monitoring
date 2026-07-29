@@ -61,3 +61,10 @@ Plaintext
     Letakkan seluruh file yang ada di dalam folder serverroom/ ke direktori server lokal Anda (misalnya htdocs/monitoring/serverroom/ pada XAMPP).
 
     Akses halaman dashboard melalui peramban web (browser) sesuai dengan alamat IP lokal server Anda.
+
+
+## Skema Rangkaian
+![Skema Rangkaian IoT Monitoring](dokumentasi/rangkaianIOTsuhu.png)
+
+## 📐 Skema Website 
+![Skema Rangkaian IoT Monitoring](dokumentasi/Webserver_Suhu.png)

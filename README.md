@@ -64,7 +64,7 @@ Plaintext
 
 
 ## Skema Rangkaian
-![Skema Rangkaian IoT Monitoring](dokumentasi/rangkaianIOTsuhu.png)
+![Skema Rangkaian IoT Monitoring](dokumentasi/rangkaianIOTsuhu.jpeg)
 
 ## 📐 Skema Website 
-![Skema Rangkaian IoT Monitoring](dokumentasi/Webserver_Suhu.png)
+![Skema Rangkaian IoT Monitoring](dokumentasi/Webserver_Suhu.jpeg)

@@ -1,4 +1,4 @@
-IoT Server Room Temperature & Monitoring System
+*IoT Server Room Temperature & Monitoring System*
 
 Sistem pemantauan lingkungan ruang server berbasis IoT (Internet of Things) menggunakan ESP32. Proyek ini dirancang untuk memantau suhu, kelembapan, dan potensi kebocoran/cairan secara real-time, lengkap dengan indikator lokal, web dashboard, serta otomatisasi pengiriman peringatan darurat (alert) ke Telegram.
 🚀 Fitur Utama
